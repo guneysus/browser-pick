@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BrowserPick": {
+      "commandName": "Project",
+      "commandLineArgs": "http://google.com"
+    }
+  }
+}
